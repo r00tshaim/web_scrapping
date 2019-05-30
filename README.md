@@ -32,6 +32,10 @@ python3 weather.py mumbai in
 ```
 python3 weather.py banglore in
 ```
+```
+python3 weather.py london uk
+```
+
 ## Authors
 
 * **Shaim Khanusiya** - *Initial work* - [r00tshaim](https://github.com/r00tshaim)
